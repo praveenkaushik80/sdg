@@ -36,7 +36,6 @@ def generate_samples_bayesian(df, n):
         st.error("Error occurred: " + str(e))
 
 # Streamlit app code
-st.sidebar.write("Arvind SY")
 st.sidebar.write()
 st.sidebar.write("Synthetic data refers to information that is artificially generated, rather than coming \
                  from real-world events. It is commonly used to validate mathematical models and train machine\
