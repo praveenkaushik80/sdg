@@ -1,4 +1,4 @@
-﻿altair==5.0.1
+﻿altair<5
 attrs==23.1.0
 blinker==1.6.2
 cachetools==5.3.1
@@ -7,7 +7,6 @@ charset-normalizer==3.1.0
 click==8.1.3
 colorama==0.4.6
 decorator==5.1.1
-distutils==24.2
 filelock==3.12.2
 gitdb==4.0.10
 GitPython==3.1.31
